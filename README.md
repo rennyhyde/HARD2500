@@ -12,8 +12,9 @@ HARD 2500 is a matrix-style MIDI CC modulation patcher for Max/MSP. It can be us
 
 ## Installing
 1. Download `HARD_2500.maxproj` and `\patchers\`
-2. Double click `HARD_2500.maxproj` to open in Max 8
-3. Open `HARD_2500_ModMatrix.maxpat` from the project window
+2. Put both of those into a folder called `HARD_2500` 
+3. Double click `HARD_2500.maxproj` to open in Max 8
+4. Open `HARD_2500_ModMatrix.maxpat` from the project window
 
 
 ## Use with Ableton Live
